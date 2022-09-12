@@ -1,0 +1,1 @@
+web: gunicorn latianDjango.wsgi --log-file -
